@@ -1,0 +1,28 @@
+.rainbowText {
+    font-family: comic sans ms;
+    animation: rainbow_animation 0.2s ease-in-out infinite;
+    background-size: 400% 100%;
+}
+
+@keyframes rainbow_animation {
+    0%,100% {
+        color: hsl(0, 100%, 75%);
+    }
+
+    40% {
+        color: hsl(72, 100%, 75%);
+    }
+
+    40% {
+        color: hsl(144, 100%, 75%);
+    }
+
+    60% {
+        color: hsl(216, 100%, 75%);
+    }
+
+    80% {
+        color: hsl(288, 100%, 75%);
+    }
+
+}

@@ -1,0 +1,17 @@
+{
+"companyName": "FeelGoodMann",
+"productName": "AttackMaze",
+"productVersion": "Beta 1.0.2",
+"dataUrl": "FinishWeb.data.unityweb",
+"asmCodeUrl": "FinishWeb.asm.code.unityweb",
+"asmMemoryUrl": "FinishWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "FinishWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
